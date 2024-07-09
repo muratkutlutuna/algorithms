@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íëæýÿÿÿÿ8¿¡Á¾‰2J$db6b3e20-0c0e-4db1-b3cf-a7aa292b68fd
+¢
+java:S4165"_Remove this useless assignment; "j" already holds the assigned value along all execution paths.(Ë²ù«8É¡Á¾‰2J$d97f97f9-a3ee-43d8-8822-e1aab845cf72
+}
+java:S1118":Add a private constructor to hide the implicit public one.(âíòû8Ê¡Á¾‰2J$583865f4-e4d7-4b05-a283-af6dc53000fe
+}
+java:S1854"5Remove this useless assignment to local variable "j".(ÌòâÐúÿÿÿÿ8Ë¡Á¾‰2J$0f1da229-e369-4522-a37d-eb93b3ced537
+œ
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‚ ‹°8Ì¡Á¾‰2J$018f2097-9af6-4852-8056-8c9ef5d1f9af
+†
+java:S1659)">Declare "j" and all following declarations on a separate line.(ãäÚ‘üÿÿÿÿ8Î¡Á¾‰2J$7a9466d9-d406-4385-8cf6-aa46384e9e01

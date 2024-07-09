@@ -1,0 +1,6 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ò‡h8Çã´·‰2J$6e74364b-13a9-4c17-b519-455aa89022c0
+}
+java:S1118":Add a private constructor to hide the implicit public one.(úùÐÔ8‘È¼·‰2J$fe4c95d6-f51d-4e2c-837d-b5d20e4ffffd
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8“È¼·‰2J$5a223a3c-dfdf-45b6-8cac-825aa7d2d502
