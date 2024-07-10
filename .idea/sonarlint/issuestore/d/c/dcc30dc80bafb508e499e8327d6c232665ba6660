@@ -1,0 +1,47 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ìò¿ƒ8íçİ‰2J$0a65de5a-df5a-4d77-9392-125cac1cf1a3
+q
+java:S1905"")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8íçİ‰2J$826c3029-7fa8-408d-bccb-efdc66df744e
+r	java:S106#"+Replace this use of System.out by a logger.(Èé†úÿÿÿÿ8íçİ‰2J$38cc6660-4fc4-4741-a9d1-8b934cddf15c
+q
+java:S1905)")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8îçİ‰2J$5d0b7e21-af48-445b-883a-410be31dba1e
+r	java:S106*"+Replace this use of System.out by a logger.(ß¾üšùÿÿÿÿ8îçİ‰2J$d6c559a6-baa6-4a07-b8a5-95afc77cfc06
+q
+java:S19050")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8îçİ‰2J$ddafdbd8-bd7a-4a86-a05e-c6fd00bd789e
+r	java:S1061"+Replace this use of System.out by a logger.(ø¼Øûùÿÿÿÿ8îçİ‰2J$78ae6b21-0b81-419c-90f1-5798c3532796
+q
+java:S19057")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8îçİ‰2J$da75abc4-3686-4a10-84be-f2aba699a39e
+r	java:S1068"+Replace this use of System.out by a logger.(ãä÷şÿÿÿÿ8îçİ‰2J$7936d619-da6b-4070-8e62-f04215d91dc3
+q
+java:S1905>")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8îçİ‰2J$20739cbe-57d1-40f3-b155-c6eb8a936913
+r	java:S106?"+Replace this use of System.out by a logger.(Íˆı†ıÿÿÿÿ8îçİ‰2J$8cebfc31-f838-43c5-8065-94dfaa173e53
+q
+java:S1905E")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8ïçİ‰2J$6bff0797-efc8-4545-a67a-04072eebeeff
+r	java:S106F"+Replace this use of System.out by a logger.(§¦Ë°øÿÿÿÿ8ïçİ‰2J$25abd744-8e75-4459-864d-e4ac70e563ca
+q
+java:S1905L")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8ïçİ‰2J$3e4335b8-0e6d-4957-882a-599133416178
+m	java:S106M"+Replace this use of System.out by a logger.(†ã—‚8ïçİ‰2J$a518b1aa-4043-4c70-805f-12398d00c9c8
+m	java:S106O"+Replace this use of System.out by a logger.(Ãşª´8ïçİ‰2J$3e716e0e-e9e3-4cf5-be5e-a7c2a0b5ad94
+q
+java:S1905^")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8ğçİ‰2J$e29dfb61-f47f-4cbd-ae06-16d18e38284e
+r	java:S106_"+Replace this use of System.out by a logger.(Èé†úÿÿÿÿ8ğçİ‰2J$b7fb264d-e3dd-4378-8ffe-7a625613b67f
+q
+java:S1905e")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8ñçİ‰2J$023691b3-c878-4644-a143-d7655063e036
+r	java:S106f"+Replace this use of System.out by a logger.(ß¾üšùÿÿÿÿ8ñçİ‰2J$267836b5-0ec4-4f71-8cc5-c39688315838
+q
+java:S1905l")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8ñçİ‰2J$98863537-2e94-4ccb-8935-1a339418ef09
+r	java:S106m"+Replace this use of System.out by a logger.(ø¼Øûùÿÿÿÿ8ñçİ‰2J$5f5b9bff-ff39-4f59-bb12-adbe756ed7db
+q
+java:S1905s")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8îÍ¯İ‰2J$129fd069-6690-4c42-89f1-00f80392af7e
+r	java:S106t"+Replace this use of System.out by a logger.(ãä÷şÿÿÿÿ8ñçİ‰2J$9572e865-5a96-4d6a-971d-e3bddecbf4f5
+q
+java:S1905z")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8ïÍ¯İ‰2J$494321b2-fd16-4797-91bd-41d0d027ed6e
+r	java:S106{"+Replace this use of System.out by a logger.(Íˆı†ıÿÿÿÿ8òçİ‰2J$363ff20a-1288-438c-9892-2b6ce286d810
+r
+java:S1905")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8ïÍ¯İ‰2J$938b48e7-d8f9-45a4-b987-3aa4c0456bdf
+s	java:S106‚"+Replace this use of System.out by a logger.(§¦Ë°øÿÿÿÿ8òçİ‰2J$b5dfb951-db0a-4ac8-b76c-84eac197dabf
+r
+java:S1905ˆ")Remove this unnecessary cast to "double".(åŠ×Úşÿÿÿÿ8ïÍ¯İ‰2J$76cb3356-ed98-4846-9dbd-151209c020fe
+n	java:S106‰"+Replace this use of System.out by a logger.(†ã—‚8Õñ­İ‰2J$ae858836-ee1c-4d37-9336-dbdcae7b6368
+a
+java:S2119’"Save and re-use this "Random".(¼İÅf8ôçİ‰2J$689a06a2-54ec-488f-9cc4-6638576b2522
