@@ -1,10 +1,10 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¥íï8ÔĞÆ¹‰2J$ef0e565a-9eaf-4108-9694-b8a0c61ef2e8
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¥íï8ÔĞÆ¹‰2J$c54ea782-da68-4ced-8b81-2ef6e1b00597
 
-java:S1854"7Remove this useless assignment to local variable "arr".(Õ™™ñşÿÿÿÿ8ÌÊ¹‰2J$b3c5beb7-33b8-432d-b865-400dc2136493
-r	java:S106"+Replace this use of System.out by a logger.(¡áªµÿÿÿÿÿ8ÜĞÆ¹‰2J$4dd8331a-9438-4fc1-9e8c-d5d1e66369d5
+java:S1854"7Remove this useless assignment to local variable "arr".(Õ™™ñşÿÿÿÿ8ÌÊ¹‰2J$ab874eaa-e8b8-460f-96db-c1b20949dc0f
+r	java:S106"+Replace this use of System.out by a logger.(¡áªµÿÿÿÿÿ8ÜĞÆ¹‰2J$183c81c8-adf9-4742-a73c-29e61a607ceb
 p
-java:S1481"(Remove this unused "arr" local variable.(Õ™™ñşÿÿÿÿ8ÏÊ¹‰2J$7758ebdb-6241-4889-841b-8c1ff45b80f1
-r	java:S106"+Replace this use of System.out by a logger.(ºµÃûÿÿÿÿ8İĞÆ¹‰2J$cd2a82f6-42e0-4b27-85eb-7924d642521b
-r	java:S106"+Replace this use of System.out by a logger.(Œ¥£şÿÿÿÿ8İĞÆ¹‰2J$3756a1ac-064e-4a2d-8bc4-6ac4dc26381b
-r	java:S106"+Replace this use of System.out by a logger.(ºµÃûÿÿÿÿ8İĞÆ¹‰2J$5b9d2504-ab65-49dc-89a2-9640ef3301a2
+java:S1481"(Remove this unused "arr" local variable.(Õ™™ñşÿÿÿÿ8ÏÊ¹‰2J$2eaa0e92-0c1a-479d-be7f-bb4ffab2caa6
+r	java:S106"+Replace this use of System.out by a logger.(ºµÃûÿÿÿÿ8İĞÆ¹‰2J$041505ce-98de-4c9c-8537-6df8e2e62caf
+r	java:S106"+Replace this use of System.out by a logger.(Œ¥£şÿÿÿÿ8İĞÆ¹‰2J$3b622520-25ba-4901-bca8-0c921c9bef8e
+r	java:S106"+Replace this use of System.out by a logger.(ºµÃûÿÿÿÿ8İĞÆ¹‰2J$ae2c4e0f-996a-4f13-851c-2b35bda879dd

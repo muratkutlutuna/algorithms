@@ -64,3 +64,7 @@ S
 Q.idea/sonarlint/securityhotspotstore/2/8/2873649120c0c78d76dc8739d5c56cc42c22c5c3,7/4/74e112543c9ffcf04b33494eb8c2d3460b85b43e
 Å
 Q.idea/sonarlint/securityhotspotstore/8/6/8649cd3854a4d4e2906e089d2caeb362c062af13,2/c/2c61387e282e23ac4c86012b93d1c8f8f157a63b
+R
+"src/shellSort/ShellSortRunner.java,4/7/4722a9c565fe89a8c10615662e44cfd51057f85a
+J
+src/CompareAlgorithms.java,d/c/dcc30dc80bafb508e499e8327d6c232665ba6660
